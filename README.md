@@ -4,7 +4,7 @@
 
 Пример использования
 
-```
-    const args = require('parse-cli-args')(process.argv);
-    console.log(args.mode);
+```js
+const args = require('parse-cli-args')(process.argv);
+console.log(args.mode);
 ```
