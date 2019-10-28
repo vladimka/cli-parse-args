@@ -1,6 +1,6 @@
 {
   "name": "parse-cli-args",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Парсер аргументов коммандной строки",
   "main": "index.js",
   "scripts": {
